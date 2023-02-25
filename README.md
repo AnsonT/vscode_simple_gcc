@@ -6,4 +6,5 @@
 - `code --install-extension ms-vscode.cpptools-themes`
 - `code --install-extension ms-vscode.makefile-tools`
 
-##
+## Clang
+CLang++ configuration in CLang branch
