@@ -83,3 +83,6 @@ dkms.conf
 *.out
 *.app
 main
+
+# Misc
+.history
